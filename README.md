@@ -1,10 +1,12 @@
 # React Meme Generator
 
-![Version](https://img.shields.io/badge/version-1.0.5-success)
+
 
 ![App Screen](./src/assets/app-screen.png)
 
-Simple project to create custom memes. [See it live](https://pd-meme-generator.netlify.app/).
+Simple project to create custom memes. 
+********************[Wanna See it live]**********************
+
 
 ### Under the hood
 
@@ -15,6 +17,3 @@ Simple project to create custom memes. [See it live](https://pd-meme-generator.n
 - URL interface (Web APIs)
 - HTML to Image
 
----
-
-Stay safe and enjoy 😉
